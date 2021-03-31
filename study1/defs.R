@@ -1,0 +1,6 @@
+exp.command = "python3.8"
+exp.runner.file = "runner.py"
+exp.setup.file = "study1/setup.csv"
+out.dir = "/scratch/tmp/bossek/knapsack_diversity/experiments/study1/data/raw"
+out.dir.local = "study1/data/raw"
+#out.dir = "/Users/bossek/knapsack_diversity/experiments/study1/data/raw"
